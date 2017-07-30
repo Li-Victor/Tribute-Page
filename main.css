@@ -1,7 +1,24 @@
 body {
-  margin-top: 60px;
+  background-color: #B388FF;
 }
 
-.container {
-    background-color: #DDDDDD;
+ .container__title {
+     font-size: 10vw;
+ }
+
+ h2.text-center {
+     margin-top: 0;
+ }
+
+figure {
+    background-color: #F2F2F2;
+}
+
+img.center-block.img-responsive {
+    max-width: 50%;
+}
+
+h3.text-center.timeline {
+    margin-top: 0;
+    margin-bottom: 0;
 }
